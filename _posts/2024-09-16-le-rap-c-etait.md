@@ -1,10 +1,15 @@
 ---
-layout: post
-title:  "Le rap, c'était..."
-date:   2024-09-16 21:45:00 +0200
-categories: rap francophone
+title:  "Le rap, c'était mieux..."
+
+date:   2024-09-16 00:00:00 +0200
+categories:
+  - Rap
+  - Article
+tags:
+  - Rap
+  - Article
 ---
-"Le rap, c'était mieux avant"
+"Le rap, c'était mieux av... Stop ! C'est tout le temps bon, il suffit de faire le tri."
 
 Franchement, qu'est-ce qui t'est passé par la tête ? Oui, toi, assis là avec ta bière artisanale, convaincu que t'étais devenu trop mature pour continuer d'écouter du rap français.
 
