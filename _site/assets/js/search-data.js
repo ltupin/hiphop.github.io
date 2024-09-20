@@ -5,7 +5,7 @@ var store = [{
         "url": "http://localhost:4000/rap/francais/post/2010/01/01/c-sen.html"
       },{
         "title": "Le rap, c'était mieux... Part.1",
-        "excerpt":"“Le rap, c’était mieux av… Stop ! C’est tout le temps bon, il suffit de faire le tri.” Cette série d’articles pourra peut-être te permettre de te réconcilier avec le rap francais actuel Aussi loin que je me souvienne j’ai commencé à vraiment écouter du rap avec une cassette, “Yo...","categories": ["Rap","Article"],
+        "excerpt":"“Le rap, c’était mieux av… Stop ! C’est tout le temps bon, il suffit de faire le tri.” Cette série d’articles pourra peut-être te permettre de te réconcilier avec le rap francais actuel… Aussi loin que je me souvienne j’ai commencé à vraiment écouter du rap avec une cassette, “Yo...","categories": ["Rap","Article"],
         "tags": ["Rap","Article"],
         "url": "http://localhost:4000/rap/article/2024/09/16/le-rap-c-etait.html"
       }]
