@@ -1,5 +1,5 @@
 ---
-title:  "Le rap, c'était mieux..."
+title:  "Le rap, c'était mieux... Part.1"
 
 date:   2024-09-16 00:00:00 +0200
 categories:
@@ -11,10 +11,10 @@ tags:
 ---
 "Le rap, c'était mieux av... Stop ! C'est tout le temps bon, il suffit de faire le tri."
 
-Franchement, qu'est-ce qui t'est passé par la tête ? Oui, toi, assis là avec ta bière artisanale, convaincu que t'étais devenu trop mature pour continuer d'écouter du rap français.
+Cette série d'articles pourra peut-être te permettre de te réconcilier avec le rap francais actuel
 
-Toi qui kiffais l’âge d’or du rap francais, de 1995 à 2005, t’as lâché l’affaire au moment où t'aurais dû rester. Toi qui regardais l'évolution de près, t'as fait demi-tour pour te la jouer puriste en écoutant des instrus boom-bap des années 90 comme si t'étais coincé dans une faille spatio-temporelle. Pendant ce temps, le rap français a continué d'évoluer, et aujourd’hui, je découvre des sons de 2010 qui auraient pu être la bande-son de mes journées.
+Aussi loin que je me souvienne j'ai commencé à vraiment écouter du rap avec une cassette, "Yo Rap", en 1990. Deux rappeurs francophones officiaient sur cette compilation, Lionel D. et Benny B, ca m'a plu mais j'en voulais plus et c'est quelques mois après de la même année, qu'un pote me prète la cassette "Rappatitude" et là je me souviens très bien de NTM, Assassins et EJM. La gifle...
 
-Mais non, monsieur préférait ses playlists US ne si "retrouvant plus", sans se rendre compte que l'évolution de la scène francaise était innatendue. Des paroles atypiques, des instrus futuristes, des flows saccadés... Le rap francais s'ouvrait quand toi tu t'es renfermé. Maintenant, c’est moi qui me retrouve avec 14 ans de rap français à rattraper...
+Je vais pas vous refaire l'histoire du rap mais sans internet et une presse très pauvre (et mes finances, pauvres également) la découverte des nouveaux groupes, des nouvelles compils parfois même des mixtapes (le graal) se fait de manière assez ératique mais quand je m'y suis penché plus tard, rétrospéctivement, nous n'avions pas raté grand chose.
 
-Tu me sortira surement un "ça c'est pas du rap" mais maintenant, à moi de réparer tes erreurs avec ce blog. 
+"Ouais, c'est ca reste underground."
