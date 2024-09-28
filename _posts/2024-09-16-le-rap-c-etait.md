@@ -17,7 +17,7 @@ Aussi loin que je me souvienne j'ai commencé à vraiment écouter du rap avec u
 
 Je ne vais pas vous refaire l'histoire du rap mais sans internet et une presse très pauvre (et mes finances, pauvres également) la découverte des nouveaux groupes, des nouvelles compils parfois même de mixtapes (le graal) se fait de manière assez ératique. Quand j'observe cette époque, rétrospéctivement, nous n'avions heureusement pas raté grand chose !
 
-Dès le début le rap est utilisé à des fins commerciales. Comme on pense que c'est une mode, on ne repecte rien et on s'obstine à vouloir faire des $$$$. Quitte à en choquer certains, beaucoup de sons sortis dans les années 90 sont à ignorer. Même des artistes honorables, Fabe, Passi, Stomy nous ont sortis des sons très "attendus" du grand public.
-Aussi des groupes et artistes "only for money" ont vu le jour, Ménélik, Réciprok... 
-
+Dès le début le rap est utilisé à des fins commerciales. Comme on pense que c'est une mode, on ne repecte rien et on s'obstine à vouloir faire des francs. Quitte à en choquer certains, beaucoup de sons sortis dans les années 90 sont à ignorer. Même des artistes honorables, Fabe, Passi, Stomy nous ont sortis des sons très "attendus" du grand public et passablement nul, je zap car ca fait parti de mon passé....
+Aussi des groupes et artistes "only for money" ont vu le jour, Ménélik, Réciprok... Pour d'autre on ne saura jamais vraiment mais le doute plane, Benny B. cité plus haut ou encore Solaar (discutable...)
+  
 La suite ici ....
