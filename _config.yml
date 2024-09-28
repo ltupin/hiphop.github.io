@@ -84,11 +84,14 @@ author:
   twitter: mmistakes
   links:
     - title: Twitter
-      url: https://twitter.com/rapdufutur
+      url: https://x.com/rapdufutur
       icon: fab fa-twitter-square
     - title: Instagram
       url: https://www.instagram.com/rapduturfu
       icon: fab fa-instagram
+    - title: Facebook
+      url: https://www.facebook.com/rapduturfu
+      icon: fab fa-facebook
 #    - title: GitHub
 #      url: https://github.com/mmistakes
 #      icon: fab fa-github-square
@@ -99,10 +102,10 @@ footer_links:
     url: https://x.com/rapdufutur
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/rapduturfu
     icon: fab fa-instagram
   - title: Facebook
-    url: https://facebook.com/mmistakes
+    url: https://www.facebook.com/rapduturfu
     icon: fab fa-facebook
 #  - title: GitHub
 #    url: https://github.com/mmistakes
