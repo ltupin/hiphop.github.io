@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laucarre"
-date:   2024-10-20 00:00:00 +0200
+#date:   2024-10-20 00:00:00 +0200
 categories: rap francophone
 ---
 "Le rap, c'était mieux avant"
