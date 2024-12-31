@@ -3,10 +3,6 @@ title:  "Le rap, c'était mieux... Part.1"
 
 date:   2024-09-16 00:00:00 +0200
 categories:
-  - Rap
-  - Article
-tags:
-  - Rap
   - Article
 ---
 "Le rap, c'était mieux av... Stop ! C'est tout le temps bon, il suffit de faire le tri."
