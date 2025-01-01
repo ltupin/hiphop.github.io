@@ -1,5 +1,9 @@
 ---
-layout: post
 title:  "Youssef Swatt's"
-categories: rap francophone
+categories:
+  - Rap Belge
+  - Rap Francophone
+tags:
+  - Youssef
+  - Swatt
 ---
