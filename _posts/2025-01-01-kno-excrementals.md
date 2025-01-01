@@ -8,7 +8,7 @@ tags:
   - Cunninlynguists
 ---
 
-This guy upload dopes on Youtube. Excrementals is a set of 5 CDr produced by KNO where yo will find close to all of his instrumentals.
+This guy upload dopes on Youtube. Excrementals is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.
 
 Blogspot: [https://undergroundechoes.blogspot.com/](https://undergroundechoes.blogspot.com/)  
 Youtube: [https://www.youtube.com/@STEVEWONDA1976](https://www.youtube.com/@STEVEWONDA1976)
