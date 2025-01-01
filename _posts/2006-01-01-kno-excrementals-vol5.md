@@ -10,7 +10,8 @@ tags:
 
 Fifth and last one !
 
-"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.
+"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.  
+
 This one is mainly focus on the third CunninLynguists Album, "A Piece Of Strange", and the second CunninLynguists Mixtape "Sloppy Seconds Vol. 2 ".
 
 [KNO of Cunninlynguists Presents... Excrementals Volume Five](https://www.youtube.com/watch?v=OU_VZmMfmSs)
