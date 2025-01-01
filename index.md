@@ -11,6 +11,7 @@ header:
 
 
 
-- Réconcilier les boomers comme moi en mode "Le rap c'était mieux avant." avec la scène francophone de 2010 à aujourd'hui.
+- Réconcilier les boomers qui disent "Le rap c'était mieux avant" avec la scène francophone de 2010 à aujourd'hui.
 - Présenter des albums, des artistes actuels qui valent le détour.
 - Me permettre de me souvenir ce que j'écoute et ce que j'en pense.
+- Partager du son US "rare" que je kiffe.
