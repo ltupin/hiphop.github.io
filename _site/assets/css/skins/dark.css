@@ -199,6 +199,9 @@ th, td { border-bottom-color: #fbfbfb; }
 .btn--linkedin { background-color: #007bb6; color: #fff; }
 .btn--linkedin:hover { background-color: #006292; color: #fff; }
 .btn--linkedin:visited { background-color: #007bb6; color: #fff; }
+.btn--youtube { background-color: #bb0000; color: #fff; }
+.btn--youtube:hover { background-color: #960000; color: #fff; }
+.btn--youtube:visited { background-color: #bb0000; color: #fff; }
 .btn--reddit { background-color: #ff4500; color: #fff; }
 .btn--reddit:hover { background-color: #cc3700; color: #fff; }
 .btn--reddit:visited { background-color: #ff4500; color: #fff; }
