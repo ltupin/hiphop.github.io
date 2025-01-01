@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/rap%20us/instrumentals/2004/01/01/kno-excrementals-vol1.html</loc>
+<lastmod>2004-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/rap%20us/instrumentals/2004/01/01/kno-excrementals-vol2.html</loc>
+<lastmod>2004-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/rap%20us/instrumentals/2004/01/01/kno-excrementals-vol3.html</loc>
+<lastmod>2004-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/rap%20us/instrumentals/2006/01/01/kno-excrementals-vol4.html</loc>
+<lastmod>2006-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/rap%20us/instrumentals/2006/01/01/kno-excrementals-vol5.html</loc>
+<lastmod>2006-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/rap%20francais/rap%20francophone/2010/01/01/c-sen.html</loc>
 <lastmod>2010-01-01T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/article/2024/09/16/le-rap-c-etait.html</loc>
-<lastmod>2024-09-16T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/rap%20us/instrumentals/2025/01/01/kno-excrementals.html</loc>
-<lastmod>2025-01-01T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
