@@ -38,6 +38,3 @@ This Youtube account upload very rare dopes !
 |16 | Arrogant                  | 49:33 | "???"                                                    | ????
 
 Youtube: [https://www.youtube.com/@STEVEWONDA1976](https://www.youtube.com/@STEVEWONDA1976)
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-
