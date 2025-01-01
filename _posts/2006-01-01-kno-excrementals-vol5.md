@@ -20,20 +20,20 @@ This one is mainly focus on the third CunninLynguists Album, "A Piece Of Strange
 
 | Track | Title | Timestamp | From | Year |
 |-------|-------|-----------|------|------|
-|01 | Interlude 1               | 0:00  | "???"                                                                                 | ????
-|02 | Nothing To Give           | 0:24  | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|03 | Beautiful Girl            | 3:56  | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|04 | What They Playin?         | 7:25  | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                        | 2005
-|05 | Cornasto                  | 10:05 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                        | 2005
-|06 | Be Free                   | 12:42 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                        | 2005
-|07 | Interlude 2               | 15:56 | "???"                                                                                 | ????
-|08 | Miss Lady                 | 16:44 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                        | 2005
-|09 | Porcelain (Remix)         | 20:26 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                        | 2005
-|10 | Diamond Sky               | 23:36 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                        | 2005
-|11 | Hellfire                  | 26:53 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|12 | Never Know Why            | 29:24 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|13 | Interlude 3               | 33:03 | "???"                                                                                 | ????
-|14 | America Loves Gangsters   | 33:42 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|15 | Ugly Woman                | 38:06 | "WhutduzFMstand4?". the first PackFM* Album                                           | 2003
+|01 | Interlude 1               | 0:00  | "???"                                                         | ????
+|02 | Nothing To Give           | 0:24  | "A Piece Of Strange", the third CunninLynguists Album         | 2005
+|03 | Beautiful Girl            | 3:56  | "A Piece Of Strange", the third CunninLynguists Album         | 2005
+|04 | What They Playin?         | 7:25  | "Sloppy Seconds Vol. 2 ", the second CunninLynguists Mixtape  | 2005
+|05 | Cornasto                  | 10:05 | "Sloppy Seconds Vol. 2 ", the second CunninLynguists Mixtape  | 2005
+|06 | Be Free                   | 12:42 | "Sloppy Seconds Vol. 2 ", the second CunninLynguists Mixtape  | 2005
+|07 | Interlude 2               | 15:56 | "???"                                                         | ????
+|08 | Miss Lady                 | 16:44 | "Sloppy Seconds Vol. 2 ", the second CunninLynguists Mixtape  | 2005
+|09 | Porcelain (Remix)         | 20:26 | "Sloppy Seconds Vol. 2 ", the second CunninLynguists Mixtape  | 2005
+|10 | Diamond Sky               | 23:36 | "Sloppy Seconds Vol. 2 ", the second CunninLynguists Mixtape  | 2005
+|11 | Hellfire                  | 26:53 | "A Piece Of Strange", the third CunninLynguists Album         | 2005
+|12 | Never Know Why            | 29:24 | "A Piece Of Strange", the third CunninLynguists Album         | 2005
+|13 | Interlude 3               | 33:03 | "???"                                                         | ????
+|14 | America Loves Gangsters   | 33:42 | "A Piece Of Strange", the third CunninLynguists Album         | 2005
+|15 | Ugly Woman                | 38:06 | "WhutduzFMstand4?". the first PackFM* Album                   | 2003
 
 Youtube: [https://www.youtube.com/@STEVEWONDA1976](https://www.youtube.com/@STEVEWONDA1976)
