@@ -20,19 +20,19 @@ This Youtube account upload very rare dopes !
 | Track | Title | Timestamp | From | Year |
 |-------|-------|-----------|------|------|
 |01 | Interlude 1         | 0:00  | "???"                                                                                 | ????
-|02 | Time (What Is It?)  | 0:50  | "Sloppy Seconds Vol. 2 "|, the second  CunninLynguists Mixtape                        | 2005
+|02 | Time (What Is It?)  | 0:50  | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                         | 2005
 |03 | Since When          | 4:31  | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|04 | Friendgirl          | 7:21  | "Sloppy Seconds Vol. 2 "|, the second  CunninLynguists Mixtape                        | 2005
+|04 | Friendgirl          | 7:21  | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                         | 2005
 |05 | Interlude 2         | 10:53 | "???"                                                                                 | ????
 |06 | Hourglass           | 11:28 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
 |07 | Caved In            | 14:45 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|08 | WCG                 | 18:05 | "Sloppy Seconds Vol. 2 "|, the second  CunninLynguists Mixtape                        | 2005
+|08 | WCG                 | 18:05 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                         | 2005
 |09 | Brain Cell          | 21:48 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
 |10 | What'll You Do      | 25:50 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
 |11 | Interlude 3         | 28:38 | "???"                                                                                 | ????
 |12 | Interlude 3         | 29:15 | "???"                                                                                 | ????
 |13 | The Gates           | 33:29 | "A Piece Of Strange", the third CunninLynguists Album                                 | 2005
-|14 | Break Even          | 37:37 | "Sloppy Seconds Vol. 2 "|, the second  CunninLynguists Mixtape                        | 2005
+|14 | Break Even          | 37:37 | "Sloppy Seconds Vol. 2 "|, the second CunninLynguists Mixtape                         | 2005
 |15 | Excuses             | 41:19 | "WhutduzFMstand4?". the first PackFM* Album                                           | 2003
 
 Youtube: [https://www.youtube.com/@STEVEWONDA1976](https://www.youtube.com/@STEVEWONDA1976)
