@@ -6,6 +6,12 @@ categories:
 tags:
   - KNO
   - Cunninlynguists
+  - Sloppy Seconds Vol. 2
+  - A Piece Of Strange
+  - WhutduzFMstand4
+  - PackFM
+  - APOS Music
+  - QN5 Music
 ---
 
 Fifth and last one !

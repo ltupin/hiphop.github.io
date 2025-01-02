@@ -9,7 +9,7 @@ tags:
   - Will Rap For Food
   - Southernunderground
   - Kno vs. Hov – The White Albulum
-  - For President Vol. 2: Inauguration
+  - For President Vol. 2 Inauguration
   - Mr SOS
   - APOS Music
   - QN5 Music
