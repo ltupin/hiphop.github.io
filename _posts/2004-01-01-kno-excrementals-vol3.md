@@ -42,9 +42,9 @@ CunninLynguists is an American hip hop group from Lexington, Kentucky. The group
 |10 | My 1st Song                  | 31:00 | "Kno vs. Hov – The White Albulum" | 2004
 |11 | PSA (Remix)                  | 34:10 | "Kno vs. Hov – The White Albulum" | 2004
 |12 | Encore (Remix)               | 36:32 | "Kno vs. Hov – The White Albulum" | 2004
-|13 | Ahead Of My Time (Remix)     | 40:24 | "Ahead Of My Time / This Means War", first iCON The Mic King EP         | 2002
+|13 | Ahead Of My Time (Remix)     | 40:24 | "Ahead Of My Time / This Means War" | 2002
 |14 | Interlude 2                  | 45:07 | "???"                                                                   | ????
-|15 | Grown Man B.I.               | 45:24 | "Asterisk:Two (Special Blend By DJ JS-1)". Compilation                  | 2003
-|16 | Stay In Line                 | 49:10 | "Projekt:Building". first Oktober Album                                 | 2004
+|15 | Grown Man B.I.               | 45:24 | "Asterisk:Two (Special Blend By DJ JS-1)" | 2003
+|16 | Stay In Line                 | 49:10 | "Projekt:Building" | 2004
 
 Youtube: [https://www.youtube.com/@STEVEWONDA1976](https://www.youtube.com/@STEVEWONDA1976)
