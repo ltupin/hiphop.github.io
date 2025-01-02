@@ -6,15 +6,24 @@ categories:
 tags:
   - KNO
   - Cunninlynguists
+  - Will Rap For Food
+  - Southernunderground
+  - Kno vs. Hov – The White Albulum
+  - Asterisk
+  - Oktober
+  - iCON The Mic King
+  - APOS Music
+  - QN5 Music
 ---
 
-This third CDr of instrumentals from **KNO** propose 16 tracks from 6 differents albums.
-- 2 more tracks from "Will Rap For Food" the first **CunninLynguists** album. That is the latests, now we have 9 songs from this album.
-- 2 more tracks from "Southernunderground" the second **CunninLynguists** album. That is the latests, now we have 9 songs from this album.
-- 5 from Kno vs. Hov – The White Albulum, the first **KNO**'s album. That is the latests, now we have 10 songs from this album. All the remixs are coming from immaterial (mp3) release.
-- One track from "Ahead Of My Time / This Means War" first EP from **iCON The Mic King**
-- One track from "Asterisk:Two (Special Blend By DJ JS-1)" compilation.
-- One track from "Projekt:Building", the first solo project from **Oktober**.
+This third CDr of instrumentals from **KNO** propose 16 tracks from 6 differents albums.  
+
+- 2 more tracks from **Will Rap For Food** the first **CunninLynguists** album. That is the latests, now we have 9 songs from this album.
+- 2 more tracks from **Southernunderground** the second **CunninLynguists** album. That is the latests, now we have 9 songs from this album.
+- 5 from **Kno vs. Hov – The White Albulum**, the first **KNO**'s album. That is the latests, now we have 10 songs from this album. All the remixs are coming from immaterial (mp3) release.
+- One track from **Ahead Of My Time / This Means War** first EP from **iCON The Mic King**
+- One track from **Asterisk:Two (Special Blend By DJ JS-1)** compilation.
+- One track from **Projekt:Building**, the first solo project from **Oktober**.
 
 To notice that there is a "Southernunderground" reissue version with two CDs, the second one contain all instrumentals.  
 [Southernunderground CD Reissue from 2009](https://www.discogs.com/fr/release/2011952-CunninLynguists-Southernunderground)
