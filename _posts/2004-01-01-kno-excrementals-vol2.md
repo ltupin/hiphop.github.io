@@ -14,7 +14,8 @@ tags:
   - QN5 Music
 ---
 
-This second CDr of instrumentals from **KNO** propose 16 tracks from 4 differents albums.
+This second CDr of instrumentals from **KNO** propose 16 tracks from 4 differents albums.  
+
 - 4 more tracks from **Will Rap For Food** the first **CunninLynguists** album.
 - 4 more tracks from **Southernunderground** the second **CunninLynguists** album, (Love Ain't Remix is from the reissue that contain 2 CDs).
 - 4 from **Kno vs. Hov – The White Albulum**, the first **KNO**'s album.
