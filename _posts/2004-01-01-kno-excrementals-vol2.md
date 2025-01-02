@@ -12,7 +12,7 @@ This second CDr of instrumentals from **KNO** propose 16 tracks from 4 different
 - 4 more tracks from "Will Rap For Food" the first **CunninLynguists** album.
 - 4 more tracks from "Southernunderground" the second **CunninLynguists** album, (Love Ain't Remix is from the reissue that contain 2 CDs).
 - 4 from Kno vs. Hov – The White Albulum, the first **KNO**'s album.
-- One track from "Dirtay / Smoke Out" EP. This track was features by Cashmere The Pro.
+- One track from "Dirtay / Smoke Out" EP. This track was features by **Cashmere The Pro**.
 
 To notice that there is a "Southernunderground" reissue version with two CDs, the second one contain all instrumentals.  
 [Southernunderground CD Reissue from 2009](https://www.discogs.com/fr/release/2011952-CunninLynguists-Southernunderground)
