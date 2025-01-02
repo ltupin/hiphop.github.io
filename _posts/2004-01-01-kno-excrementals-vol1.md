@@ -9,8 +9,8 @@ tags:
 ---
 
 This first CDr of instrumentals from KNO propose 16 tracks from 4 differents albums.
-- 3 tracks from "Will Rap For Food" the first **CunninLynguists** albums 
-- 3 tracks from "Southernunderground" the second **CunninLynguists** albums 
+- 3 tracks from "Will Rap For Food" the first **CunninLynguists** album
+- 3 tracks from "Southernunderground" the second **CunninLynguists** album
 - One from Kno vs. Hov – The White Albulum, the first **KNO**'s album
 - One track from "For President Vol. 2: Inauguration", the first **Mr SOS** solo album
 
