@@ -27,7 +27,7 @@ To notice that there is a "A Piece Of Strange" reissue version with three CDs, t
 
 CunninLynguists is an American hip hop group from Lexington, Kentucky. The group consists of **Deacon the Villain**, **Kno**, and **Natti**. Previously, **Mr SOS** was member too.
 
-"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.  
+**Excrementals** is a set of 5 CDr produced by **KNO** where you will find close to all of his instrumentals.
 
 [KNO of Cunninlynguists Presents... Excrementals Volume Five](https://www.youtube.com/watch?v=OU_VZmMfmSs)
 ![Cover](/images/kno-excrementals_volume_5_instrumental_300.jpg)

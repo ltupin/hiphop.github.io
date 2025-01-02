@@ -20,7 +20,7 @@ This first CDr of instrumentals from **KNO** propose 16 tracks from 4 differents
 - 3 tracks from **Will Rap For Food** the first **CunninLynguists** album.
 - 3 tracks from **Southernunderground** the second **CunninLynguists** album.
 - One from **Kno vs. Hov – The White Albulum**, the first **KNO**'s album.
-- One track from "For President Vol. 2: Inauguration", the first **Mr SOS** solo album (volume 1 was a mixtape).
+- One track from **For President Vol. 2: Inauguration**, the first **Mr SOS** solo album (volume 1 was a mixtape).
 
 CunninLynguists is an American hip hop group from Lexington, Kentucky. The group consists of **Deacon the Villain**, **Kno**, and **Natti**. Previously, **Mr SOS** was member too.
 

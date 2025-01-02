@@ -26,7 +26,7 @@ To notice that there is a "Southernunderground" reissue version with two CDs, th
 
 CunninLynguists is an American hip hop group from Lexington, Kentucky. The group consists of **Deacon the Villain**, **Kno**, and **Natti**. Previously, **Mr SOS** was member too.
 
-"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.  
+**Excrementals** is a set of 5 CDr produced by **KNO** where you will find close to all of his instrumentals.
 
 [KNO of Cunninlynguists Presents... Excrementals Volume Two](https://www.youtube.com/watch?v=24B9M2kgOkA)
 
