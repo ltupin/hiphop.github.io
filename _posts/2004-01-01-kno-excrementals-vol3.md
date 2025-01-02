@@ -8,9 +8,19 @@ tags:
   - Cunninlynguists
 ---
 
-This Youtube account upload very rare dopes !   
+This third CDr of instrumentals from **KNO** propose 16 tracks from 6 differents albums.
+- 2 more tracks from "Will Rap For Food" the first **CunninLynguists** album. That is the latests, now we have 9 songs from this album.
+- 2 more tracks from "Southernunderground" the second **CunninLynguists** album. That is the latests, now we have 9 songs from this album.
+- 5 from Kno vs. Hov – The White Albulum, the first **KNO**'s album. That is the latests, now we have 10 songs from this album.
+- One track from "Asterisk:Two (Special Blend By DJ JS-1)" compilation.
+- One track from "Projekt:Building", the first solo project from Oktober.
 
-"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.
+To notice that there is a "Southernunderground" reissue version with two CDs, the second one contain all instrumentals.  
+[Southernunderground CD Reissue from 2009](https://www.discogs.com/fr/release/2011952-CunninLynguists-Southernunderground)
+
+CunninLynguists is an American hip hop group from Lexington, Kentucky. The group consists of **Deacon the Villain**, **Kno**, and **Natti**. Previously, **Mr SOS** was member too.
+
+"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.  
 
 [KNO of Cunninlynguists Presents... Excrementals Volume Three](https://www.youtube.com/watch?v=efTVHkm1e3o)
 ![Cover](/images/kno-excrementals_volume_3_instrumental_300.jpg)

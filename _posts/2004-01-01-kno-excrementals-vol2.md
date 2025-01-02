@@ -8,19 +8,18 @@ tags:
   - Cunninlynguists
 ---
 
-This second CDr of instrumentals from KNO propose 16 tracks from 4 differents albums.
-- 4 more tracks from "Will Rap For Food" the first **CunninLynguists** album
-- 4 more tracks from "Southernunderground" the second **CunninLynguists** album, (Love Ain't Remix is from the reissue that contain 2 CDs)
-- 4 from Kno vs. Hov – The White Albulum, the first **KNO**'s album
-- One track from "Dirtay / Smoke Out" EP. This track was features by Cashmere The Pro
+This second CDr of instrumentals from **KNO** propose 16 tracks from 4 differents albums.
+- 4 more tracks from "Will Rap For Food" the first **CunninLynguists** album.
+- 4 more tracks from "Southernunderground" the second **CunninLynguists** album, (Love Ain't Remix is from the reissue that contain 2 CDs).
+- 4 from Kno vs. Hov – The White Albulum, the first **KNO**'s album.
+- One track from "Dirtay / Smoke Out" EP. This track was features by Cashmere The Pro.
 
 To notice that there is a "Southernunderground" reissue version with two CDs, the second one contain all instrumentals.  
 [Southernunderground CD Reissue from 2009](https://www.discogs.com/fr/release/2011952-CunninLynguists-Southernunderground)
 
-CunninLynguists is an American hip hop group from Lexington, Kentucky. The group consists of **Deacon the Villain**, **Kno**, and **Natti*. Previously, **Mr SOS** was member too.
+CunninLynguists is an American hip hop group from Lexington, Kentucky. The group consists of **Deacon the Villain**, **Kno**, and **Natti**. Previously, **Mr SOS** was member too.
 
-"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.
-
+"Excrementals" is a set of 5 CDr produced by KNO where you will find close to all of his instrumentals.  
 
 [KNO of Cunninlynguists Presents... Excrementals Volume Two](https://www.youtube.com/watch?v=24B9M2kgOkA)
 
